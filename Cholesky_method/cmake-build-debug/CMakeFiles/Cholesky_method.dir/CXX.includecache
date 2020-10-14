@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zygalo/Comp_Math/Cholesky_method/Efimov_fixed.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+cmath
+-
+

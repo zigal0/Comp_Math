@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cholesky_method.dir/Efimov_fixed.cpp.o  -o Cholesky_method 
