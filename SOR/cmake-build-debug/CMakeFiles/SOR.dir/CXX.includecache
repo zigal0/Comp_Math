@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zygalo/Comp_Math/SOR/main.cpp
+iostream
+-
+vector
+-
+iomanip
+-
+fstream
+-
+cmath
+-
+stdlib.h
+-
+
